@@ -2,7 +2,7 @@
  
  ### The subtile art of not giving a fuck
 
- ![image] (https://miro.medium.com/v2/resize:fit:1200/1*1hpObQWyoa8_Iu2op0RKZA.png)
+ ![image](https://miro.medium.com/v2/resize:fit:1200/1*1hpObQWyoa8_Iu2op0RKZA.png)
 
  # My Project
 
